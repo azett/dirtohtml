@@ -1,4 +1,6 @@
 [![Releases](https://img.shields.io/github/release/azett/dirtohtml.svg?label=Latest%20release&style=plastic)](https://github.com/azett/dirtohtml/releases "See all releases")
+[![Change log](https://img.shields.io/badge/Change%20log-📜-555?style=plastic)](./CHANGELOG.md "Change log")
+[![Contributors](https://img.shields.io/badge/Contributors-😎-555?style=plastic)](./CONTRIBUTORS.md "Contributors")
 [![License](https://img.shields.io/github/license/azett/dirtohtml.svg?style=plastic)](./LICENSE.md "License")
 [![Open issues](https://img.shields.io/github/issues-raw/azett/dirtohtml?style=plastic)](https://github.com/azett/dirtohtml/issues "See open issues")
 [![Last commit](https://img.shields.io/github/last-commit/azett/dirtohtml?style=plastic)](https://github.com/azett/dirtohtml/commits/ "Last commit")
