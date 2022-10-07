@@ -1,0 +1,10 @@
++---------------------------+
+|                           |
+|        DirToHTML          |
+|                           |
++---------------------------+
+
+
+Ein Programm, das Verzeichnisinhalte als HTML-Datei ablegt. 
+
+Weitere Details auf http://www.arvidzimmermann.de . 
