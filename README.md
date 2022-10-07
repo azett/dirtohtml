@@ -19,6 +19,21 @@ Called without arguments, the graphical UI will open. Use the following argument
 - SRC: The source directory to process.
 - DEST: The destination HTML file to store the result in.
 
+## Options
+Use the following options to fit the HTML output to your needs. 
+
+Be aware that each option adds more content to the HTML output, thus increasing the size of the HTML files and the processing duration. Rule of thumb: Activating all options multiplies duration and output size by factor 10.
+- __Create one HTML file for each directory__<br>If this option is active, a separate HTML file is created for each subdirectory scanned. A click on a subdirectory opens its HTML output.<br>This option is especially recommended for a very large directory to be read.<br>If the option is not active, the complete directory content is written into a single HTML file. Directories can then be expanded and collapsed by clicking on them.
+- __Display hidden elements__<br>f this option is active, hidden files and directories are also listed in the HTML document. They are displayed in italics.
+- __Display full paths__<br>If this option is active, all paths in the HTML document are displayed absolutely. If it is not active, the paths are shown relative to the selected directory.
+- __Create tooltips__<br>If this option is active, additional information is displayed when the mouse hovers over a file or directory name in the HTML document.
+- __Display program details__<br>If this option is active, additional information is displayed when the mouse hovers over a file or directory name in the HTML document.
+- __Display file size__<br>If this option is active, the size of each file is displayed.
+- __Display last change date__<br>If this option is active, the date of the last modification is shown for each file.
+- __Display MP3 bitrate__<br>If this option is active, the bitrate of each MP3 file will be shown.
+- __Create links__<br>If this option is active, all files in the HTML document are linked, i.e. they can be called directly from the HTML files. Of course, this only works if the HTML files are located on the computer where they were created.
+- __Open links in new window__<br>If this option is active, file links will open in a new window. This option can only be selected if "Create links" is active.
+
 ## Customizing
 You may customize the HTML output to your needs with HTML, CSS and JavaScript.
 
