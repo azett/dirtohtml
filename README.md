@@ -1,3 +1,8 @@
+[![Releases](https://img.shields.io/github/release/azett/dirtohtml.svg?label=Latest%20release&style=plastic)](https://github.com/azett/dirtohtml/releases "See all releases")
+[![License](https://img.shields.io/github/license/azett/dirtohtml.svg?style=plastic)](./LICENSE.md "License")
+[![Open issues](https://img.shields.io/github/issues-raw/azett/dirtohtml?style=plastic)](https://github.com/azett/dirtohtml/issues "See open issues")
+[![Last commit](https://img.shields.io/github/last-commit/azett/dirtohtml?style=plastic)](https://github.com/azett/dirtohtml/commits/ "Last commit")
+
 # DirToHTML
 This neat little program scans a given directory and lists its contents to HTML files.
 
