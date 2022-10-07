@@ -4,7 +4,9 @@
 [![Last commit](https://img.shields.io/github/last-commit/azett/dirtohtml?style=plastic)](https://github.com/azett/dirtohtml/commits/ "Last commit")
 
 # DirToHTML
-This neat little program scans a given directory and lists its contents to HTML files.
+This neat little program scans a given directory and lists its contents to HTML files. This might come handy if you'd like to list your movie or music collection, for example.
+
+DirToHTML will happily run under any operating system as long as a [Java Runtime Environment](https://www.java.com/de/download/manual.jsp) (JRE) is present.
 
 ![screenshot.png](/screenshot.png?raw=true "DirToHTML screenshot")
 
