@@ -1,1 +1,1 @@
-This repository has moved to codeberg: [https://github.com/azett/dirtohtml.git](https://codeberg.org/azett/dirtohtml)
+This repository has moved to Codeberg: [https://codeberg.org/azett/dirtohtml](https://codeberg.org/azett/dirtohtml)
